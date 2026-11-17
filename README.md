@@ -2,6 +2,10 @@
 
 Foundational Python scripts and notebooks for handling biological sequences: FASTA parsing, GC content, reverse complements, codon-related operations, and sequence comparisons.
 
+## Folder guides
+
+- [Python sequence-analysis assessment](Final%20Exam/README.md)
+
 ## Repository guide
 
 | Topic | Files |
